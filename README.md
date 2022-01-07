@@ -1,2 +1,2 @@
 # Namaste-world
-simple respo of namaste world
+simple respo of namaste world!
